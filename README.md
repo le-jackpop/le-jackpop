@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning more about GitHub
 <!--
 **le-jackpop/le-jackpop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
